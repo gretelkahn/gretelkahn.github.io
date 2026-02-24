@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a journalist at the Reuters Institute for the Study of Journalism. Our work focuses on covering journalism, the media industry, and the public that they serve. I am particularly interested in issues surrounding labour, disinformation, AI, and the Global South. I am hoping to experiment more with data and visualizations. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I previously was a journalist with the Canadian Broadcasting Corporation (CBC) in Montreal, Québec where I covered daily local and breaking news for radio (and sometimes web). I hold a Bachelor's degree in Honours International Development from McGill University and a Master's degree in Comparative Social Policy from the University of Oxford.
