@@ -97,6 +97,6 @@ collections:
   audio:
     output: true
     permalink: /audio/:path/
-  data_projects:
+  data:
     output: true
-    permalink: /data-projects/:path/
+    permalink: /data/:path/
