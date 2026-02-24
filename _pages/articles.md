@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-layout: collection
+layout: archive
 collection: articles
 permalink: /articles/
 author_profile: true
