@@ -1,6 +1,6 @@
 main:
-  - title: "Home"
-    url: /
+  - title: "About"
+    url: /about/
     
   - title: "Articles"
     url: /articles/
@@ -10,6 +10,3 @@ main:
     
   - title: "Data"
     url: /data-projects/
-    
-  - title: "About"
-    url: /about/
