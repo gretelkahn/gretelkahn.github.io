@@ -99,4 +99,4 @@ collections:
     permalink: /audio/:path/
   data:
     output: true
-    permalink: /data/:path/
+    permalink: /data-projects/:path/
