@@ -89,3 +89,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+  audio:
+    output: true
+    permalink: /audio/:path/
+  data_projects:
+    output: true
+    permalink: /data-projects/:path/
