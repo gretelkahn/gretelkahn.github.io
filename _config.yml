@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Gretel Kahn"
-email:
-description: "Journalist"
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: dirt
-search: true
+locale                   : "en-GB"
+title                    : "Gretel Kahn | Journalist"
+description              : "Gretel Kahn's journalism portfolio"
+url                      : "https://gretelkahn.github.io"
+minimal_mistakes_skin    : dirt
+search                   : true
 
 # Build settings
 markdown: kramdown
@@ -55,27 +54,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Gretel Kahn"
-  bio    : "Journalist"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-
+  name             : "Gretel Kahn"
+  bio              : "Journalist"
+  linkedin         : "gretel-kahn"
+  github           : "gretelkahn"
+  twitter          : "gretel kahn"
+  
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  since             : "2026"
 
 defaults:
   # _posts
