@@ -1,9 +1,11 @@
 main:
   - title: "Home"
-    url: /about/
+    url: /
   - title: "Articles"
     url: /articles/
   - title: "Audio"
     url: /audio/
-  - title: "Data"
+  - title: "Data Projects"
     url: /data-projects/
+  - title: "About"
+    url: /about/
