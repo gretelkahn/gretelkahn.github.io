@@ -1,5 +1,8 @@
 ---
-permalink: /about/
+layout: single
+title: "About"
+permalink: /
+author_profile: true
 ---
 
 I'm a journalist at the Reuters Institute for the Study of Journalism. Our work focuses on covering journalism, the media industry, and the public that they serve. I am particularly interested in issues surrounding labour, disinformation, AI, and the Global South. I am hoping to experiment more with data and visualizations. 
