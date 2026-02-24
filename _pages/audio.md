@@ -1,6 +1,6 @@
 ---
 title: "Audio"
-layout: collection
+layout: archive
 collection: audio
 permalink: /audio/
 ---
